@@ -1,9 +1,10 @@
 <html>
     <head>
-        <title>PHP Hello World!</title>
+        <title>Bonjour !</title>
     </head>
     <body>
-        <?php echo '<h1>Hello World</h1>'; ?>
+	<?php echo '<h1>Bonjour !</h1>'
+	      echo '<p> Voici les infos PHP :'; ?>
         <?php phpinfo(); ?>
     </body>
 </html>
